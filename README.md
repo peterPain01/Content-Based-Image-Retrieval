@@ -12,9 +12,11 @@
 5. Run `search_img.py`.
 
 ## Input 
-<div style="display: flex; justify-content: center">  
-   <img src="./test/test01.jpg" width="220px"  />
-</div>
+<p align="center">
+  <img src="./test/test01.jpg" width="350" title="input image">
+</p>
 
 ## Output
-<img src="Figure_1.png"  />
+<p align="center">
+  <img src="Figure_1.png" title="output image">
+</p>
